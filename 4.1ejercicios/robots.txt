@@ -1,0 +1,8 @@
+user-agent: 
+allow /inex.html
+disallow
+
+user-agent: 
+allow
+disallow
+./sidemap
